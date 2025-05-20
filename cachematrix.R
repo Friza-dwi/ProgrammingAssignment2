@@ -22,4 +22,3 @@ cachemean <- function(x, ...) {
   x$setmean(m)
   m
 }
-
